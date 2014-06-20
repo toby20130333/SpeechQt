@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/button_default.png</file>
+        <file>images/button_press.png</file>
+        <file>images/speech_n.png</file>
+        <file>images/speech_p.png</file>
+        <file>images/bg.png</file>
+        <file>images/main_bg.png</file>
+        <file>images/close_d.png</file>
+        <file>images/close_h.png</file>
+        <file>images/close_p.png</file>
+    </qresource>
+</RCC>
