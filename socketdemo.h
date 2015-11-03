@@ -3,6 +3,7 @@
 
 #include <QObject>
 #include <QTcpSocket>
+#include <QStringList>
 class SocketDemo : public QObject
 {
     Q_OBJECT
